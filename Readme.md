@@ -33,10 +33,10 @@ Prize distribution period: up to two weeks after the event
 
 ------------------------------------------------------------------------------------------
 
-# 🧑‍💻 **[ECOSYSTEM CHALLENGE] Deploy on Moonbase Alpha using Truffle**
+## 🧑‍💻 **[ECOSYSTEM CHALLENGE] Deploy on Moonbase Alpha using Truffle**
 
 For our first challenge, head over [this page](https://github.com/PureStake/gitcoin-hello-world-by-moonbeam/issues/1).
 
-# 🧑‍💻 **[ECOSYSTEM CHALLENGE] Using Remix and MetaMask on Moonbeam**
+## 🧑‍💻 **[ECOSYSTEM CHALLENGE] Using Remix and MetaMask on Moonbeam**
 
 For our second challenge, head over [this page](https://github.com/PureStake/gitcoin-hello-world-by-moonbeam/issues/2).
